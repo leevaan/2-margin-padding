@@ -1,0 +1,174 @@
+header {
+    padding: 15px;
+}
+header .logo img{
+    vertical-align: middle;
+    width: 80px;
+    height: 80px;
+}
+
+nav{
+    display: inline-block;
+    vertical-align: middle;
+}
+nav li {
+    margin-left : 15px;
+    display: inline-block;
+}
+nav li a{
+    color: rgb(38, 0, 255);
+}
+.dominant-color{
+    color:rgb(255, 1, 1)
+}
+ /* ----------------------------------------------- section one ----------------------------------------- */
+ .sec-one{
+     padding: 0 100px 100px 100px;
+ }
+ .sec-one img {
+     width: 100%;
+     height: 400px;
+ }
+
+  /*----------------------------------------------- section two ------------------------------------------*/
+  .sec-two{
+     padding: 0 100px 100px 100px;
+  }
+  .sec-two h2{
+      text-transform: uppercase;
+      
+  }
+.sec-two h2 a{
+    text-transform: lowercase;
+    color: rgb(38, 0, 255);
+}
+.box-one  {
+    display: inline-block;
+    width: 49%;
+    height: auto;
+    background-color: rgb(240, 240, 240);
+    padding: 15px;
+    margin-top: 25px;
+}
+.box-two{
+    display: inline-block;
+    width: 49%;
+    height: auto;
+    background-color: rgb(240, 240, 240);
+    padding: 15px;
+    margin-top: 25px;
+    margin-left: 1%;
+}
+.box-one h2 a, .box-two h2 a{
+    color: rgb(38, 0, 255);
+    text-transform: uppercase;
+}
+.box-one h2, .box-two h2{
+    margin-bottom: 15px;
+    word-spacing: 0.2em;
+    letter-spacing: 0.08em;
+    font-weight: 550;
+}
+.box-one img, .box-two img{
+    display: inline-block;
+    vertical-align: top;
+    width: 150px;
+    height: 180px;
+}
+.box-one p, .box-two p{
+    display: inline-block;
+    vertical-align: top;
+    width: 65%;
+    margin-left: 10%;
+}
+/*---------------------------------------- Footer---------------------------------------- */
+footer{
+    padding: 15px;
+}
+.fb{
+    display: inline-block;
+    width: 20px;
+    height: 30px;
+    margin: 0 10px 0 100px;
+    vertical-align: middle;
+}
+.line{
+    display: inline-block;
+    height: 20px;
+    width: 1px;
+    background-color: blue;
+    vertical-align: middle;
+}
+.youtube{
+    display: inline-block;
+    width: 20px;
+    height: 30px;
+    margin-left: 10px;
+    vertical-align: middle;
+}
+/*---------------------------------------- NEWS ---------------------------------------- */
+.sec-news{
+    background-color: rgb(253, 251, 251);
+    padding: 30px 0 30px 30px;
+    margin-bottom: 10px;
+}
+.sec-news div{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(62, 62, 243);
+    color: white;
+    padding: 15px 0 0 5px;
+   
+  
+}
+.sec-news div span{
+    font-size: 40px;  
+}
+.teqsti2 {
+   letter-spacing: 0.18em;
+   margin-top: 5px;
+}
+.sec-news h2 {
+    font-weight: 600;
+    margin: 25px 0 15px 0;
+}
+.sec-news img{
+    width: 300px;
+    height: 250px;
+}
+.sec-news-last {
+    padding-bottom: 100px;
+}
+.teqsti{
+    margin: 2px 0 20px 0;
+    text-indent: 10px;
+    width: 90%;
+    line-height: 20px;
+}
+.news-fb{
+    display: inline-block;
+    width: 20px;
+    height: 30px;
+    margin: 0 10px 0 30px;
+    vertical-align: middle;
+}
+/*---------------------------------------- C O N T A C T  ---------------------------------------- */
+.sec-cont{
+    background-color: rgb(247, 247, 247) ;
+    padding: 30px;
+}
+.sec-cont div{
+    vertical-align: top;
+    display: inline-block;
+    width: 20%;
+}
+.container{
+    margin: 20px 0 0 0;
+}
+iframe{
+    vertical-align: top;
+    display: inline-block;
+    width: 75%;
+    height: 500px;
+    margin-left: 65px;
+}
